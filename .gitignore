@@ -1,0 +1,19 @@
+# Generated build output and downloaded dependencies
+.build/
+dist/
+
+# IDE and local editor files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS files and logs
+Thumbs.db
+Desktop.ini
+*.log
+
+# The prebuilt native bridge in native/ is intentionally version-controlled.
